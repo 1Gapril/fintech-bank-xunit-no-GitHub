@@ -4,10 +4,10 @@
 
 | Desenvolvedor | Nome Completo | Foco / Responsabilidade |
 | :--- | :--- | :--- |
-| **Desenvolvedor 1A** | [Nome do Integrante 1] | **Dev Backend (Conta Corrente):** Criação da estrutura base e implementação das regras da classe `ContaCorrenteService.cs`. |
-| **Desenvolvedor 1B** | [Nome do Integrante 2] | **Dev Backend (Empréstimos):** Implementação das regras de negócio e cálculos da classe `EmprestimoService.cs`. |
-| **Desenvolvedor 2** | [Nome do Integrante 3] | **QA / Testes Unitários:** Escrita de 100% das suítes de testes parametrizados (`[Theory]` / `[InlineData]`) para ambas as classes. |
-| **Desenvolvedor 3** | **Seu Nome Aqui** | **Documentação e DevOps:** Configuração do repositório remoto, gestão do `.gitignore`, Licença MIT e README. |
+| **Desenvolvedor 1A** | [Caio Durães ] | **Dev Backend (Conta Corrente):** Criação da estrutura base e implementação das regras da classe `ContaCorrenteService.cs`. |
+| **Desenvolvedor 1B** | [Fernando Almeida ] | **Dev Backend (Empréstimos):** Implementação das regras de negócio e cálculos da classe `EmprestimoService.cs`. |
+| **Desenvolvedor 2** | [Lucas Henrique ] | **QA / Testes Unitários:** Escrita de 100% das suítes de testes parametrizados (`[Theory]` / `[InlineData]`) para ambas as classes. |
+| **Desenvolvedor 3** | [Gabriel Ferreira ] | **Documentação e DevOps:** Configuração do repositório remoto, gestão do `.gitignore`, Licença MIT e README. |
 
 
 ## 📋 Visão Geral da Aplicação
