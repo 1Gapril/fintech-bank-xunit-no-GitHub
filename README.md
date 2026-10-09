@@ -4,9 +4,11 @@
 
 | Desenvolvedor | Nome Completo | Foco / Responsabilidade |
 | :--- | :--- | :--- |
-| **Desenvolvedor 1** | [Nome do Integrante 1] | **Dev Backend / Core:** Criação da estrutura base e implementação das regras de negócio. |
-| **Desenvolvedor 2** | [Nome do Integrante 2] | **QA / Testes Unitários:** Escrita das suítes de testes parametrizados utilizando xUnit. |
-| **Desenvolvedor 3** | **Seu Nome Aqui** | **Documentação e DevOps:** Configuração de repositório, GitIgnore, Licença e README. |
+| **Desenvolvedor 1A** | [Nome do Integrante 1] | **Dev Backend (Conta Corrente):** Criação da estrutura base e implementação das regras da classe `ContaCorrenteService.cs`. |
+| **Desenvolvedor 1B** | [Nome do Integrante 2] | **Dev Backend (Empréstimos):** Implementação das regras de negócio e cálculos da classe `EmprestimoService.cs`. |
+| **Desenvolvedor 2** | [Nome do Integrante 3] | **QA / Testes Unitários:** Escrita de 100% das suítes de testes parametrizados (`[Theory]` / `[InlineData]`) para ambas as classes. |
+| **Desenvolvedor 3** | **Seu Nome Aqui** | **Documentação e DevOps:** Configuração do repositório remoto, gestão do `.gitignore`, Licença MIT e README. |
+
 
 ## 📋 Visão Geral da Aplicação
 O **FintechBank** é uma aplicação demonstrativa desenvolvida em ecossistema .NET para simular operações bancárias essenciais, como controle de taxas de manutenção, validações de saques em contas correntes e análise e cálculo de parcelas de empréstimos com base no score de crédito do cliente. 
