@@ -1,5 +1,13 @@
 # FintechBank - Sistema Bancário com Testes em xUnit
 
+## 👥 Participantes e Papéis no Projeto
+
+| Desenvolvedor | Nome Completo | Foco / Responsabilidade |
+| :--- | :--- | :--- |
+| **Desenvolvedor 1** | [Nome do Integrante 1] | **Dev Backend / Core:** Criação da estrutura base e implementação das regras de negócio. |
+| **Desenvolvedor 2** | [Nome do Integrante 2] | **QA / Testes Unitários:** Escrita das suítes de testes parametrizados utilizando xUnit. |
+| **Desenvolvedor 3** | **Seu Nome Aqui** | **Documentação e DevOps:** Configuração de repositório, GitIgnore, Licença e README. |
+
 ## 📋 Visão Geral da Aplicação
 O **FintechBank** é uma aplicação demonstrativa desenvolvida em ecossistema .NET para simular operações bancárias essenciais, como controle de taxas de manutenção, validações de saques em contas correntes e análise e cálculo de parcelas de empréstimos com base no score de crédito do cliente. 
 
@@ -44,8 +52,8 @@ Cada cenário de borda especificado nas regras de negócio (como variações de 
 ### 1. Clonar o Repositório
 Abra o seu terminal e execute o comando:
 ```bash
-git clone https://github.com
-cd fintech-bank-xunit
+git clone https://github.com/1Gapril/fintech-bank-xunit-no-GitHub.git
+cd fintech-bank-xunit-no-GitHub
 ```
 
 ### 2. Compilar a Solução
